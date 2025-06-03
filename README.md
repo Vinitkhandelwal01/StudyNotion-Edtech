@@ -55,7 +55,7 @@ Ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Vinitkhandelwal01/StudyNotion-Edtech.git
 cd studynotion-master
 ```
 ### 2. Install Client Dependencies
@@ -82,18 +82,8 @@ RAZORPAY_KEY_ID=your_razorpay_key
 RAZORPAY_KEY_SECRET=your_razorpay_secret
 ```
 ## ▶️ Running the Application
-Option 1: Run Client and Server Concurrently
+ Run Client and Server Concurrently
 ```bash
-npm run dev
-```
-Option 2: Run Separately
-Client:
-```bash
-npm start
-```
-Server:
-```bash
-cd server
 npm run dev
 ```
 ## 🌐 Access the App
