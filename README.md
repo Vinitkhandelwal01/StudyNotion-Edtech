@@ -56,7 +56,7 @@ Ensure you have the following installed:
 
 ```bash
 git clone https://github.com/Vinitkhandelwal01/StudyNotion-Edtech.git
-cd studynotion-master
+cd StudyNotion-Edtech
 ```
 ### 2. Install Client Dependencies
 ```bash
